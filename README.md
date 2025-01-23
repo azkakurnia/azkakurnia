@@ -91,9 +91,9 @@
 
 ## <b> Let's Connect..!</b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NHU0bG9zaHg5NWlweWhkYWZweHI4MGh6N3Q5ajUwOTd1a2o0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x8OcbWI1OxszLBBViw/giphy.gif" width ="80">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzkaKurnia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)]
-[![Twitter](https://img.shields.io/badge/Twitter-AzkaKurnia-blue?style=flat&logo=twitter)]
-[![Email](https://img.shields.io/badge/Email-AzkaKurnia-red?style=flat&logo=gmail)]
+[![LinkedIn](https://img.shields.io/badge/-?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/azkassasin)
+[![Twitter](https://img.shields.io/badge/-?style=flat&logo=twitter&logoColor=white&label=)](https://twitter.com/azkassasin)
+[![Email](https://img.shields.io/badge/-?style=flat&logo=gmail&logoColor=white&label=)](mailto:azkaknfth@gmail.com)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
