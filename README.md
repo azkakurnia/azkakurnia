@@ -19,11 +19,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-563D7C?style=flat&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-563D7C?style=flat&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-563D7C?style=flat&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-563D7C?style=flat&logo=vue.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-563D7C?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=flat&logo=vue.js&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 
 **Backend Development:**  
