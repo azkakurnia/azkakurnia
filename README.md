@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-563D7C?style=flat&logo=javascript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-563D7C?style=flat&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-563D7C?style=flat&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vuejs-563D7C?style=flat&logo=vuejs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-563D7C?style=flat&logo=vue.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-563D7C?style=flat&logo=sass&logoColor=white)
 
 
