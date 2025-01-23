@@ -6,9 +6,7 @@
 - 🌍 I'm from Indonesia  
 - 👨‍💻 I'm a Full Stack Developer  
 - 📚 Currently learning frontend and backend  
-- 📷 Follow me on [Instagram](https://instagram.com/zkaknfth_)
-
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHI3eGxqaTQ5NzIzOG1vMjBxOHpsNjV3cml0ZDRnd2pqcmpmZHU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iGJanOJIVG7Zu/giphy.gif)
+- 📷 Follow me on [Instagram](https://instagram.com/zkaknfth_) ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHI3eGxqaTQ5NzIzOG1vMjBxOHpsNjV3cml0ZDRnd2pqcmpmZHU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iGJanOJIVG7Zu/giphy.gif)
 
 ## 🚀 Skills
 **Languages:**  
