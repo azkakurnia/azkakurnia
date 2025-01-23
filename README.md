@@ -29,11 +29,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariGunawanJatmiko&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariGunawanJatmiko&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azkassassin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azkassassin&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ariGunawan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-ariGunawan-blue?style=flat&logo=twitter)]
-[![Email](https://img.shields.io/badge/Email-ariGunawan-red?style=flat&logo=gmail)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzkaKurnia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-AzkaKurnia-blue?style=flat&logo=twitter)]
+[![Email](https://img.shields.io/badge/Email-AzkaKurnia-red?style=flat&logo=gmail)]
 
