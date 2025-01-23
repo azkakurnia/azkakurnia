@@ -52,6 +52,8 @@
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
     ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
+<br>
+
 - **Software & Tools:**
 
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -87,7 +89,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><https://media.giphy.com/media/x8OcbWI1OxszLBBViw/giphy.gif?cid=ecf05e47107hsdyg8zv496dk00x0m7uai6s6u9ljkkc7lrdw&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="80">
+## <b> Let's Connect..!</b><https://media.giphy.com/media/x8OcbWI1OxszLBBViw/giphy.gif?cid=ecf05e47107hsdyg8zv496dk00x0m7uai6s6u9ljkkc7lrdw&ep=v1_gifs_related&rid=giphy.gif&ct=s>" width ="80">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AzkaKurnia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)]
 [![Twitter](https://img.shields.io/badge/Twitter-AzkaKurnia-blue?style=flat&logo=twitter)]
