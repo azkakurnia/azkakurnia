@@ -9,7 +9,7 @@
 
 ## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXByZWFsaHdrY204aDA0bTNpOTFkcDFjbW1lNDJsZDJ0bzNhZ2pxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/R8WjZl0hSfLHox0Prn/giphy.gif?cid=ecf05e4745x7u7981r29agiph2axy743rq00fc47xsccexni&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif?cid=790b7611sjdelg9j89s3pznzkksmf65b308gskrqepejdgg2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 250px></picture>
 
 <br>
 
@@ -18,7 +18,7 @@
 - 📚 Currently learning frontend and backend  
 - 📷 Follow me on [Instagram](https://instagram.com/zkaknfth_)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -79,14 +79,14 @@
 
 <br>
 <br>
-<br>
 
 -----
 
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://media.giphy.com/media/mZsvhd1qKBFNgvyJmN/giphy.gif" width ="80">
+## <b> Let's Connect..!</b><https://media.giphy.com/media/x8OcbWI1OxszLBBViw/giphy.gif?cid=ecf05e47107hsdyg8zv496dk00x0m7uai6s6u9ljkkc7lrdw&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="80">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AzkaKurnia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-AzkaKurnia-blue?style=flat&logo=twitter)]
 [![Email](https://img.shields.io/badge/Email-AzkaKurnia-red?style=flat&logo=gmail)]
