@@ -1,12 +1,12 @@
-# Hi, I'm Ari Gunawan Jatmiko 👋
+# Hi, I'm Azka Kurnia Fattah 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ariGunawanJatmiko&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=azkassassin&color=blueviolet)
 
 ## About me  
-- 🌍 I'm from GunawanJaya  
+- 🌍 I'm from Indonesia  
 - 👨‍💻 I'm a Full Stack Developer  
 - 📚 Currently learning frontend and backend  
-- 📷 Follow me on [Instagram](https://instagram.com/yourusername)
+- 📷 Follow me on [Instagram](https://instagram.com/zkaknfth_)
 
 ## 🚀 Skills
 **Languages:**  
