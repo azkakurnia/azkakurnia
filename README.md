@@ -11,11 +11,15 @@
 
 <picture><img align="right" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" width="250"></picture>
 
-I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building web apps and always exploring new technologies from Laravel to React and everything in between. Currently focusing on leveling up my frontend skills while keeping my backend game strong 💪.
+I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building web apps and always exploring new technologies from Laravel to React and everything in between. Currently focusing on leveling up my frontend skills while keeping my backend game strong 💪. I'm always up for new challenges and believe in continuous learning to stay ahead in the tech world.
 
-- 🌍 Based in Indonesia  
-- 👨‍💻 Full Stack Developer  
-- 📚 Currently learning advanced frontend/backend stacks  
+🌍 Based in Indonesia
+
+👨‍💻 Full Stack Developer
+
+📚 Currently learning advanced frontend/backend stacks
+
+💡 Always eager to learn and innovate with the latest technologies
 
 ---
 
