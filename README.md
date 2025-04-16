@@ -16,7 +16,6 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 - 🌍 Based in Indonesia  
 - 👨‍💻 Full Stack Developer  
 - 📚 Currently learning advanced frontend/backend stacks  
-- 📷 [Follow me on Instagram](https://instagram.com/zkaknfth_)
 
 ---
 
