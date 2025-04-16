@@ -94,16 +94,22 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
   <a href="https://twitter.com/azkassasin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:azkaknfth@gmail.com">
+  <a href="mailto:azkaknfth@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/628xxxxxxx" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/yourDiscordID" target="_blank">
+  <a href="https://discordapp.com/users/your_discord_id" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://tiktok
+  <a href="https://www.tiktok.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
