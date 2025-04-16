@@ -1,4 +1,7 @@
-<h1 align="center"><b>Hi, I'm Azka Kurnia Fattah</b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ5YXB5Y3BzaHVxeW93YWxwOGp6ZHNtOTVwM3B6d2poMWlrOGtzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" alt="Waving hand" width="80"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Azka+Kurnia+Fattah!" alt="Typing effect">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ5YXB5Y3BzaHVxeW93YWxwOGp6ZHNtOTVwM3B6d2poMWlrOGtzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" alt="Waving hand" width="80">
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azkassassin&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet)
 
