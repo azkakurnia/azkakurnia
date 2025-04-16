@@ -20,8 +20,32 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap,tailwind,react,vue,sass,laravel,github,vscode,python,lua,nextjs,express,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=php,js,python,lua,cpp,cs" />
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,react,nextjs,vue" />
+</p>
+
+### 🧰 Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,express" />
+</p>
+
+### 🛠️ Software & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+</p>
+
+### 🤖 IoT & AI Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
