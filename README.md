@@ -8,7 +8,7 @@
 
 <picture><img align="right" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" width="250"></picture>
 
-I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building web apps and always exploring new technologies — from Laravel to React and everything in between. Currently focusing on leveling up my frontend skills while keeping my backend game strong 💪.
+I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building web apps and always exploring new technologies from Laravel to React and everything in between. Currently focusing on leveling up my frontend skills while keeping my backend game strong 💪.
 
 - 🌍 Based in Indonesia  
 - 👨‍💻 Full Stack Developer  
@@ -63,15 +63,6 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 - ✅ JavaScript DOM Crash Course (Traversy Media)
 - ✅ Responsive Web Design (freeCodeCamp)
 - ✅ Git & GitHub Crash Course (Code With Mosh)
-
----
-
-## 😂 Fun Facts
-
-- 🔧 Pernah ngoding dari HP waktu listrik mati, demi kejar deadline
-- 🧠 Bisa ngoding sambil dengerin lo-fi dan kopi hitam full tanpa gula
-- 🕹️ Ngerasa paling fokus ngoding pas tengah malam (night owl dev 🦉)
-- 🤯 Bisa debug error cuma dari suara kipas laptop yang tiba-tiba kenceng
 
 ---
 
