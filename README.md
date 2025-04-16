@@ -87,9 +87,23 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 
 ## <b>Let's Connect!</b> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NHU0bG9zaHg5NWlweWhkYWZweHI4MGh6N3Q5ajUwOTd1a2o0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x8OcbWI1OxszLBBViw/giphy.gif" alt="connect gif" width="80">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzkaKurnia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azkassasin)  
-[![Twitter](https://img.shields.io/badge/Twitter-AzkaKurnia-blue?style=flat&logo=twitter)](https://twitter.com/azkassasin)  
-[![Email](https://img.shields.io/badge/Email-AzkaKurnia-red?style=flat&logo=gmail)](mailto:azkaknfth@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/azkassasin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/azkassasin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:azkaknfth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/628xxxxxxx" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/yourDiscordID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://tiktok
 
 ---
 
