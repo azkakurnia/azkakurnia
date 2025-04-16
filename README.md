@@ -49,40 +49,6 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 
 </p>
 
----
-
-## 🚀 Featured Projects
-
-- 🔗 [Discord Auto Poster](https://github.com/azkassassin/discord-auto-poster) – Automate your server like a boss
-- 🔗 [Growtopia Proxy 4.19](https://github.com/azkassassin/growtopia-proxy) – Full-featured Growtopia proxy
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="github stats icon" width="35"> <b>GitHub Stats</b>
-
-<div align="center">
-  <a href="https://github.com/azkassassin/">
-    <img src="https://github-readme-stats.vercel.app/api?username=azkassassin&show_icons=true&theme=tokyonight" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkassassin&layout=compact&show_icons=true&theme=cobalt" width="375" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
-## <b>Let's Connect!</b> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NHU0bG9zaHg5NWlweWhkYWZweHI4MGh6N3Q5ajUwOTd1a2o0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x8OcbWI1OxszLBBViw/giphy.gif" alt="connect gif" width="80">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzkaKurnia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azkassasin)  
-[![Twitter](https://img.shields.io/badge/Twitter-AzkaKurnia-blue?style=flat&logo=twitter)](https://twitter.com/azkassasin)  
-[![Email](https://img.shields.io/badge/Email-AzkaKurnia-red?style=flat&logo=gmail)](mailto:azkaknfth@gmail.com)
-
----
-
-<br>
-
-<div align="center">
-  <sub>Credit: <a href="https://github.com/azkassassin">Azka Kurnia Fattah</a></sub>
-</div>
-
 ...
 
 ---
