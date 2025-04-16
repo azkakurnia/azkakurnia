@@ -58,8 +58,8 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 
 ## 🚀 Featured Projects
 
-- 🔗 [Discord Auto Poster](https://github.com/azkassassin/discord-auto-poster) – Automate your server like a boss
-- 🔗 [Growtopia Proxy 4.19](https://github.com/azkassassin/growtopia-proxy) – Full-featured Growtopia proxy
+- 🔗 [Portofolio](https://github.com/azkassassin) – My Portofolio.
+- 🔗 [Premium-Script-Leaked-Growtopia](https://github.com/azkassassin/leaked-script-bothax-pc) – Full-featured Leaked Premium Script Growtopia.
 
 ---
 
@@ -94,25 +94,25 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 ## <b>Let's Connect!</b> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NHU0bG9zaHg5NWlweWhkYWZweHI4MGh6N3Q5ajUwOTd1a2o0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x8OcbWI1OxszLBBViw/giphy.gif" alt="connect gif" width="80">
 
 <p align="center">
-  <a href="https://linkedin.com/in/azkassasin" target="_blank">
+  <a href="https://www.linkedin.com/in/azka-kurnia-4a469233a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/azkassasin" target="_blank">
+  <a href="https://x.com/azkassasin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:azkaknfth@gmail.com" target="_blank">
+  <a href="mailto:azkassasinn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/628xxxxxxx" target="_blank">
+  <a href="https://wa.me/62895383162021" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/your_discord_id" target="_blank">
+  <a href="https://discord.gg/9t7rcj97" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@yourusername" target="_blank">
+  <a href="https://www.tiktok.com/@thinkaboutzka" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+  <a href="https://www.youtube.com/channel/UCnIUZtTmIJy_xRZMpyovX6Q" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
