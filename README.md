@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi, I'm Azka Kurnia Fattah</b> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ5YXB5Y3BzaHVxeW93YWxwOGp6ZHNtOTVwM3B6d2poMWlrOGtzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" alt="Waving hand" width="80"></h1>
 
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=azkassassin&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet)
 
 ---
