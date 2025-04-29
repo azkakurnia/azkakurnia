@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=azkassassin&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=azkakurnia&label=PROFILE%20VIEWS&style=for-the-badge&color=blueviolet)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Azka+Kurnia+Fattah!" alt="Typing effect">
@@ -58,8 +58,8 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 
 ## 🚀 Featured Projects
 
-- 🔗 [Portofolio](https://github.com/azkassassin) – My Portofolio.
-- 🔗 [Premium-Script-Leaked-Growtopia](https://github.com/azkassassin/leaked-script-bothax-pc) – Full-featured Leaked Premium Script Growtopia.
+- 🔗 [Portofolio](https://github.com/azkakurnia) – My Portofolio.
+- 🔗 [Premium-Script-Leaked-Growtopia](https://github.com/azkakurnia/leaked-script-bothax-pc) – Full-featured Leaked Premium Script Growtopia.
 
 ---
 
@@ -75,7 +75,7 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azkassassin&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azkakurnia&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -83,9 +83,9 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="github stats icon" width="35"> <b>GitHub Stats</b>
 
 <div align="center">
-  <a href="https://github.com/azkassassin/">
-    <img src="https://github-readme-stats.vercel.app/api?username=azkassassin&show_icons=true&theme=tokyonight" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkassassin&layout=compact&show_icons=true&theme=cobalt" width="375" alt="Top Languages"/>
+  <a href="https://github.com/azkakurnia/">
+    <img src="https://github-readme-stats.vercel.app/api?username=azkakurnia&show_icons=true&theme=tokyonight" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkakurnia&layout=compact&show_icons=true&theme=cobalt" width="375" alt="Top Languages"/>
   </a>
 </div>
 
@@ -120,5 +120,5 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 ---
 
 <div align="center">
-  <sub>Credit: <a href="https://github.com/azkassassin">Azka Kurnia Fattah</a></sub>
+  <sub>Credit: <a href="https://github.com/azkakurnia">Azka Kurnia Fattah</a></sub>
 </div>
