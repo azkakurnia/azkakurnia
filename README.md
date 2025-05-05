@@ -7,9 +7,9 @@
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt3NGI1NmdqNmZwMDR4eWFhZ2ZsZzBsdDNoemV3ZTZrbGE1bXNyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hzdph9ISDR3e5q0UBy/giphy.gif" width="50" alt="About me icon"> **About Me**
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV5aGw1bWozcmhxYXhpczBjMm9samN3dHczaXVhMDkybnAxZW52ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VEUoOncnj5F31yO3g3/giphy.gif" width="50" alt="About me icon"> **About Me**
 
-<picture><img align="right" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" width="250"></picture>
+<picture><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpcXF4OWx5czRyM3lxenp3cm1xcHY5M3BsNHpxYjAxcDNrNDdyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif" alt="Coding gif" width="250"></picture>
 
 I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building web apps and always exploring new technologies from Laravel to React and everything in between. Currently focusing on leveling up my frontend skills while keeping my backend game strong 💪. I'm always up for new challenges and believe in continuous learning to stay ahead in the tech world.
 
@@ -91,7 +91,7 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 
 ---
 
-## <b>Let's Connect!</b> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkzbDA5aGh3aDByeHoxbzBkZTJ2eWZ4ZWJwNGw5YjY0M2Z4ZjNpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" alt="connect gif" width="80">
+## <b>Let's Connect!</b> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdvd3JxbngxdjExY2t1Nzl3OWgxejZpaXY0cG83Nzk4dGkwNzllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Al9XitEIwGgLU9yMfS/giphy.gif" alt="connect gif" width="80">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azka-kurnia-4a469233a/" target="_blank">
