@@ -9,7 +9,7 @@
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV5aGw1bWozcmhxYXhpczBjMm9samN3dHczaXVhMDkybnAxZW52ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VEUoOncnj5F31yO3g3/giphy.gif" width="50" alt="About me icon"> **About Me**
 
-<picture><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpcXF4OWx5czRyM3lxenp3cm1xcHY5M3BsNHpxYjAxcDNrNDdyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif" alt="Coding gif" width="250"></picture>
+<picture><img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHUxb2t4cHYya3BkMTd0ZW03cmtraWZhZXI1Y3gzMHVjcThpMXUwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/shpIYfSrJ5d9wqrumG/giphy.gif" alt="Coding gif" width="250"></picture>
 
 I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building web apps and always exploring new technologies from Laravel to React and everything in between. Currently focusing on leveling up my frontend skills while keeping my backend game strong 💪. I'm always up for new challenges and believe in continuous learning to stay ahead in the tech world.
 
