@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Azka+Kurnia+Fattah!" alt="Typing effect">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFiMXZ0NXcwYXZqY3preW1udzdzaXVuOGRwbDZ3N2hseGp4M2dkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k1xA4WSR0EqGRATxKI/giphy.gif" alt="Waving hand" width="80">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFiMXZ0NXcwYXZqY3preW1udzdzaXVuOGRwbDZ3N2hseGp4M2dkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k1xA4WSR0EqGRATxKI/giphy.gif" alt="Waving hand" width="150">
 </p>
 
 ---
