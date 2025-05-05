@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXByZWFsaHdrY204aDA0bTNpOTFkcDFjbW1lNDJsZDJ0bzNhZ2pxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50" alt="About me icon"> **About Me**
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt3NGI1NmdqNmZwMDR4eWFhZ2ZsZzBsdDNoemV3ZTZrbGE1bXNyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hzdph9ISDR3e5q0UBy/giphy.gif" width="50" alt="About me icon"> **About Me**
 
 <picture><img align="right" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" width="250"></picture>
 
@@ -91,7 +91,7 @@ I'm a passionate Full Stack Developer from Indonesia 🇮🇩. I love building w
 
 ---
 
-## <b>Let's Connect!</b> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0NHU0bG9zaHg5NWlweWhkYWZweHI4MGh6N3Q5ajUwOTd1a2o0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x8OcbWI1OxszLBBViw/giphy.gif" alt="connect gif" width="80">
+## <b>Let's Connect!</b> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkzbDA5aGh3aDByeHoxbzBkZTJ2eWZ4ZWJwNGw5YjY0M2Z4ZjNpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" alt="connect gif" width="80">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azka-kurnia-4a469233a/" target="_blank">
